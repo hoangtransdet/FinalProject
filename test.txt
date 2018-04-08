@@ -1,0 +1,7 @@
+Canonical, 40%.  For this program, “canonical” refers to the results and your analysis of them.  Of course, this
+requires that you get results.  If you make an error in one of the implementations, this will not influence your
+canonical grade, so long as you appear to be analyzing the results you achieved.  If you don’t get one lock to work,
+it may have a slight effect on your Canonical grade; the largest effect would be if you didn’t get the Backoff Lock
+to work, since that has tunable parameters. Correctness, 30%.  For this program, “correctness” refers to the correctness
+of your implementation of the shared counter and the six algorithms.  5% per algorithm. Cohesiveness (15%), Clarity
+(5%), and Commentary (5%) are self-explanatory. Due October 31st, 11:59 PM.  Scary thought.
